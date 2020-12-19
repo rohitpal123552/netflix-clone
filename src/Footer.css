@@ -1,0 +1,65 @@
+.footers > ul {
+    font-size: 12px;
+    list-style: none;
+   
+   
+}
+
+.footers > ul >  li {
+    padding-left: 115px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: lightgray;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: lightgray;
+    padding-bottom: 20px;
+
+}
+
+.footer > ul > a{
+    font-size: 10px;
+    text-decoration: none;
+   
+}
+
+.footer > ul > a > li {
+    list-style: none;
+   
+    margin-bottom: 15px;
+    color: lightgray;
+}
+
+#language{
+    cursor: pointer;
+    color: lightgray;
+    outline: none;
+    border: 2px solid lightgray;
+    font-weight: 400;
+    border-radius: 0.2vw;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+    margin-top: 1rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    background-color: rgba(51, 51, 51, 0.5);
+}
+
+ 
+
+.footer > ul{
+    font-size: 10px;
+    text-decoration: none;
+   
+}
+
+.footer > ul > li {
+    list-style: none;
+   margin-top: 20px;
+    margin-bottom: 15px;
+    color: lightgray;
+}
